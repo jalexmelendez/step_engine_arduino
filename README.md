@@ -1,5 +1,8 @@
 # SOURCE CODE PROYECTO FINAL SISTEMAS ELECROMECANICOS
 
+## Diagrama
+![alt text](https://hackster.imgix.net/uploads/attachments/1132396/circuit1_GwPdfPUqZY.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
+
 ### Setup de puerto para IDE de arduino en linux (En caso que no nos permita escribir)
 
 1. Ejecutar:
